@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #1abc9c;
+  --primary: #1a40bc;
   --secondary: #2c3e50;
   --success: #28a745;
   --info: #17a2b8;
@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #1abc9c;
+  color: #afe6c8;
   text-decoration: none;
   background-color: transparent;
 }
@@ -3759,7 +3759,7 @@ input[type=button].btn-block {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #1abc9c;
+  background-color: #98f1df;
   border: 0;
   border-radius: 1rem;
   -webkit-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
